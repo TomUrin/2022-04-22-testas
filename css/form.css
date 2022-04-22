@@ -1,0 +1,56 @@
+.container {
+    margin-top: 10vh;
+}
+
+.form {
+    width: 100%;
+}
+
+.form > .form-row {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.form > .form-row > .input {
+    width: 100%;
+    border: none;
+    background-color: #A5B0FF;
+    padding: 20px;
+    font-size: 15px;
+    color: #2237AA;
+}
+
+.column {
+    width: 80vw;
+    height: 80vh;
+    margin-left: 10vw;
+    padding: 40px 80px;
+    background-color: #fff;
+    position: relative;
+}
+
+.text {
+    color: #2A2DD0;
+    font-size: 38px;
+    margin-bottom: 50px;
+    text-transform: capitalize;
+}
+
+.form-row.first-name.input {
+    width: 45%;
+}
+
+.form-row.last-name {
+    width: 45%;
+    float: right;
+}
+
+.btn {
+    background-color: #233BF5;
+    width: 150px;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+
